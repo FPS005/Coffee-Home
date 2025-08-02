@@ -336,6 +336,7 @@ a {
 hr {
   border-color: #38220ff8;
   opacity: 0.3;
+  margin-top: 20px;
 }
 
 .Review-cards {
@@ -623,4 +624,5 @@ footer {
 
 .footer-title span{
   color: #c26a11;
+
 }
