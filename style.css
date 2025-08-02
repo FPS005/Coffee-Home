@@ -267,7 +267,7 @@ a {
   align-items: center;
   margin: -40px auto 20px;
   background-color: #38220ff8;
-  border-radius: 20px;
+  border-radius: 10px;
   min-width: 150px;
   transition: 0.2s ease-out;
   cursor: pointer;
@@ -283,7 +283,7 @@ a {
   position: relative;
   font-size: 1.2em;
   /* padding: 10px 0px 10px 15px; */
-  border-radius: 20px;
+  border-radius: 15px;
   color: #f3f3f3;
   overflow: hidden;
   min-width: 50px;
@@ -324,7 +324,7 @@ a {
   color: #38220ff8;
   background-color: #f3f3f3;
   padding: 10px 15px;
-  border-radius: 20px;
+  border-radius: 10px;
   box-shadow: -15px 0px 15px -5px rgba(0, 0, 0, 0.241);
   transition: 0.3s ease-out;
 }
@@ -336,7 +336,6 @@ a {
 hr {
   border-color: #38220ff8;
   opacity: 0.3;
-  margin-top: 20px;
 }
 
 .Review-cards {
@@ -626,4 +625,3 @@ footer {
   color: #c26a11;
   font-weight: 600;
 }
-
