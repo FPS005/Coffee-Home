@@ -339,7 +339,7 @@ hr {
 }
 
 .Review-cards {
-  background: url(images/Brown.png);
+  background: url(Brown.png);
   background-size: cover;
   background-color: #7d4425;
   padding: 20px 200px;
@@ -625,3 +625,4 @@ footer {
   color: #c26a11;
   font-weight: 600;
 }
+
